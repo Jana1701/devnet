@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+
+# Mac stuff
+.DS_Store
+*/.DS_Store
