@@ -5,3 +5,4 @@ with manager.connect(host="ios-xe-mgmt-latest.cisco.com", port=10000, username="
         print('*' * 50)
         print(capability)
     m.close_session()
+    
