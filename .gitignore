@@ -1,6 +1,7 @@
 *.pyc
 *.swp
-
+/Users/jana/DevNet/yang-explorer
 # Mac stuff
 .DS_Store
 */.DS_Store
+
