@@ -43,4 +43,5 @@ with manager.connect(host="ios-xe-mgmt-latest.cisco.com", port=10000, username="
     print(f"Name: {config['name']['#text']}")
     print(f"Description: {config['description']}")
     print(f"Packets In: {op_state['statistics']['in-unicast-pkts']}")
+    print("End")
     
