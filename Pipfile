@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 ncclient = "*"
 graphviz = "*"
+xmltodict = "*"
+netmiko = "*"
 
 [requires]
 python_version = "3.8"
