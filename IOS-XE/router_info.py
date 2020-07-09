@@ -1,4 +1,4 @@
 router = {"host": "ios-xe-mgmt-latest.cisco.com",
-          "port": "10000",
+          "port": "9443",
           "username": "developer",
           "password": "C1sco12345"}
