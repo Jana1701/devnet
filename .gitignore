@@ -5,5 +5,8 @@
 .DS_Store
 */.DS_Store
 
-Pipfile.lock
+/Users/jana/DevNet/Pipfile.lock
+/Users/jana/DevNet/Pipfile
 Pipfile
+Pipfile.lock
+.gitignore
